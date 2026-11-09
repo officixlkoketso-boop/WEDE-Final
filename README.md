@@ -2,6 +2,13 @@
 
 This website gives customers information about Limpopo Fresh Bakes, its baked products, and how to make an enquiry.
 
+## Student details
+
+- Name: Lethabo Mapoane
+- Student number: ST10502192
+- Group: 01
+- Module: Introduction to Web Development
+
 ## Pages
 
 - Home
@@ -31,3 +38,8 @@ style.css
 script.js
 images/
 ```
+
+## Links
+
+- GitHub repository: https://github.com/officixlkoketso-boop/WEDE-Final
+- Live website: https://officixlkoketso-boop.github.io/WEDE-Final/
